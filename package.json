@@ -1,0 +1,10 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "Cloning Youtube with Vanila and NodeJs",
+  "main": "index.js",
+  "author": "Seoyeon",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
